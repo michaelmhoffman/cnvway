@@ -1,4 +1,4 @@
-from GMTK_input_master import Covar, DPMF, DenseCPT, DiagGaussianMC, InputMaster, MX, Mean, NameCollection
+from testing.GMTK_input_master import Covar, DPMF, DenseCPT, DiagGaussianMC, InputMaster, MX, Mean, NameCollection
 
 traindir = "test3_output/traindir"
 annotatedir = "test3_output/annotatedir"
