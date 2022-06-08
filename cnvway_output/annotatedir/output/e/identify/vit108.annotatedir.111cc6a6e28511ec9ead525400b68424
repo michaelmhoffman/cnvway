@@ -1,0 +1,2 @@
+/mnt/work1/users/home2/t114244uhn/miniconda3/envs/cnvway/lib/python3.9/site-packages/genomedata/__init__.py:778: OverlapWarning: slice of chromosome data spans more than one supercontig (filling gaps with 'NaN')
+  warn("slice of chromosome data spans more than one supercontig"

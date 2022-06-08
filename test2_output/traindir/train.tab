@@ -1,0 +1,24 @@
+name	value
+distribution	norm
+dont_train_filename	test2_output/traindir/auxiliary/dont_train.list
+include_coords_filename	data/tumour-normal_merge_include_coords.bed
+input_master_filename	input.master
+len_seg_strength	0
+max_frames	67
+minibatch_fraction	-1
+num_instances	1
+num_mix_components	1
+num_segs	3
+num_subsegs	1
+output_label	seg
+params_filename	test2_output/traindir/params/params.params
+resolution	30000
+ruler_scale	300000
+seg_table_filename	
+segtransition_weight_scale	1.0
+structure_filename	segway.str
+supervision_filename	
+validation_coords_filename	
+validation_fraction	
+var_floor	
+virtual_evidence_filename	
