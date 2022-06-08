@@ -30,3 +30,5 @@ run.main(["train-init", "--num-labels=3", "--resolution=30000", "--distribution=
 "--input-master=input.master", "--structure=segway.str", "data/train-data.genomedata", traindir])
 
 run.main(["annotate", "--include-coords=data/tumour-normal_merge_include_coords.bed", "data/train-data.genomedata", traindir, annotatedir])
+
+
